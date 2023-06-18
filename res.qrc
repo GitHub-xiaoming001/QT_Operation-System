@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/back.png</file>
+        <file>image/back2.png</file>
+        <file>image/BackButtonSound.wav</file>
+        <file>image/bj.png</file>
+        <file>image/bkmusic.mp3</file>
+        <file>image/coin.gif</file>
+        <file>image/ConFlipSound.wav</file>
+        <file>image/jb1.png</file>
+        <file>image/jb2.png</file>
+        <file>image/jb3.png</file>
+        <file>image/jb4.png</file>
+        <file>image/jb5.png</file>
+        <file>image/jb6.png</file>
+        <file>image/jb7.png</file>
+        <file>image/jb8.png</file>
+        <file>image/LevelWinSound.wav</file>
+        <file>image/menubtn.png</file>
+        <file>image/qzbg.png</file>
+        <file>image/startbtn.png</file>
+        <file>image/succeed.png</file>
+        <file>image/TapButtonSound.wav</file>
+        <file>image/title.png</file>
+        <file>image/winGain.mp3</file>
+    </qresource>
+</RCC>

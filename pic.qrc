@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>1.jpg</file>
+        <file>2.webp</file>
+        <file>tp1.png</file>
+        <file>tp2.gif</file>
+        <file>tp3.png</file>
+        <file>tp4.png</file>
+        <file>tp5.webp</file>
+        <file>tp6.jpg</file>
+        <file>tp7.webp</file>
+        <file>tp8.webp</file>
+        <file>tp9.webp</file>
+        <file>tp10.webp</file>
+        <file>tp11.jfif</file>
+        <file>12.jfif</file>
+        <file>13.jfif</file>
+    </qresource>
+</RCC>
